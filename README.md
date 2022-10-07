@@ -1,4 +1,4 @@
-# atividade_Biblioteca
+# Atividade Biblioteca
 
 Faça um sistema de controle de uma biblioteca. 
 Seu sistema deve modelar um ambiente comum em toda biblioteca, onde uma série de itens é armazenado em estantes que ficam dispersas numa grande sala. 
